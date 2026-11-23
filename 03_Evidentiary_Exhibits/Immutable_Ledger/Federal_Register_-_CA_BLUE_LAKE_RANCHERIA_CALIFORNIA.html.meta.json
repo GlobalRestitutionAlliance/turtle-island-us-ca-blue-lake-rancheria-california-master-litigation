@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=CA+BLUE+LAKE+RANCHERIA+CALIFORNIA",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=CA+BLUE+LAKE+RANCHERIA+CALIFORNIA",
+  "title": "Federal Register - CA BLUE LAKE RANCHERIA CALIFORNIA",
+  "fetched_at": "2026-11-23T17:52:32.551531Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 212093,
+  "sha256": "fab542ff69fa545ea0986496b06ae3a9c97e1943b87455064f2f84f1362b25c9",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
